@@ -1,0 +1,21 @@
+.odd {
+    background-color: lightpink;
+    font-family: Verdana, "DajaVu Sans", sams-serif;
+
+/*and a list of fonts containing `Verdana` and `DejaVu Sans` with `sans-serif` as a fallback*/
+}
+
+#second {
+    font-size: 32px;
+    color: rgb(7, 7, 231);
+}
+
+.font-size {
+    font-size: 24px;
+}
+
+.forth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
